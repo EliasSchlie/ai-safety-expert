@@ -4,27 +4,15 @@ A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plugin that turn
 
 ## Who is this for?
 
-### 🌱 Newcomers
+Anyone who regularly asks Claude questions about AI safety. The plugin uplevels every answer -- more knowledge, better calibration, stronger recommendations.
 
-You've heard about AI safety and want to understand the landscape. The plugin helps Claude point you to the right introductory resources -- courses, blog posts, key papers, people to follow -- matched to your background and interests, instead of generic "start here" lists.
+Whether you're exploring the field for the first time, looking for your next role, or deep in alignment research, it helps Claude:
 
-### 🔄 Career transitioners
-
-You're a software engineer, policy researcher, PhD student, or something else entirely, and you want to pivot into AI safety work. Claude can help you find opportunities that actually fit your level and profile: fellowships for early-career researchers, engineering roles at safety labs, grants for independent work, upskilling programs, and more.
-
-### 🔬 Active practitioners
-
-You already work in alignment or adjacent areas but the field moves fast. Claude becomes better at answering technical questions across subfields, suggesting relevant recent work, and connecting dots between research directions you might not be tracking.
-
-## What does it do?
-
-The plugin is a knowledge layer that improves how Claude reasons about AI safety. Concretely, it helps Claude:
-
-- **Recommend resources** -- blog posts, papers, courses, podcasts, and books worth your time
-- **Map the landscape** -- organizations, research agendas, subfields, and how they connect
-- **Find opportunities** -- jobs, fellowships, grants, programs, and events relevant to your situation
+- **Know more** -- the organizations, people, programs, subfields, and how they connect
+- **Recommend better** -- high-signal blog posts, papers, courses, podcasts, books, and people to follow instead of generic lists
+- **Find opportunities** -- jobs, fellowships, grants, events, and programs matched to your background and level
 - **Answer technical questions** -- with better calibration on what's established vs. speculative, and where the real disagreements are
-- **Give career advice** -- specific and actionable, not "just learn ML and apply"
+- **Give real career advice** -- specific and actionable, not "just learn ML and apply"
 
 ## Installation
 
