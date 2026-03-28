@@ -1,7 +1,7 @@
 {
   "name": "ai-safety-expert",
-  "description": "AI safety field expert — career advice, events, sub-fields, and company landscape",
-  "version": "0.1.0",
+  "description": "AI safety field expert \u2014 career advice, events, sub-fields, and company landscape",
+  "version": "0.1.1",
   "author": {
     "name": "Elias Schlie"
   },
