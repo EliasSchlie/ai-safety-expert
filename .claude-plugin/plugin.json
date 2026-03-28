@@ -1,0 +1,10 @@
+{
+  "name": "ai-safety-expert",
+  "description": "AI safety field expert — career advice, events, sub-fields, and company landscape",
+  "version": "0.1.0",
+  "author": {
+    "name": "Elias Schlie"
+  },
+  "repository": "https://github.com/EliasSchlie/ai-safety-expert",
+  "license": "MIT"
+}
